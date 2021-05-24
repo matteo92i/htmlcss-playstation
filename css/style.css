@@ -18,13 +18,35 @@ header{
     width: 60px;
     height: 30px;
 }
-nav{
+
+.start{
     display: flex;
-    flex-direction: row;
+    flex-wrap: wrap;
     align-items: center;
 }
+
     
 .margin{
     margin: 0 15px;
+}
+.end{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.box{
+    width: 80px;
+    height: 40px;
+    border: 1px solid black;
+    background-color: black;
+    border-radius: 30px;
+    color: white;
+    text-align: center;
+    line-height: 30px;
+}
+.sfondo{
+    width: 100%;
+    height: 500px;
+    background-image: url(../img2/jumbo-bg.png);
 }
     
