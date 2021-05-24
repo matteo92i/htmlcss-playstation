@@ -60,4 +60,26 @@ h1{
     margin-top: 15px;
     margin-left: 40px;
     color: white;
-}    
+} 
+.dimensione{
+    width: 450px;
+    margin-top: 10px;
+    margin-left: 40px;
+}
+p{
+    color: white;
+    font-size: 17px;
+} 
+.box-red{
+    width: 150px;
+    height: 40px;
+    margin-left: 40px;
+    margin-top: 20px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    line-height: 35px;
+    border: 1px solid red;
+    border-radius: 30px;
+    font-size: 20px;
+}  
