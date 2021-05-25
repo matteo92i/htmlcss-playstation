@@ -86,12 +86,10 @@ p{
     font-size: 20px;
 }  
 /* inizio boostrap */
-.container{
-    width: 980px;
-}
+
 .box-img{
     width: 100%;
-    height: 80px;
+    height: auto;
     margin: 30px 0;
     border-radius: 15px;
 }
@@ -108,6 +106,27 @@ p{
 .grey{
     color:gray;
 }
+h2{
+    font-size: 50px;
+}
+.font-1{
+    font-size: 20px;
+    color: grey;
+}
+.box-blu{
+    width: 250px;
+    height: 40px;
+    margin-top: 20px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    line-height: 35px;
+    border: 1px solid blue;
+    border-radius: 30px;
+    font-size: 20px;
+
+}
+    
     
  
 
