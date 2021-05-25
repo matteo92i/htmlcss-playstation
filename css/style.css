@@ -193,10 +193,31 @@ h3{
 }
 
 .img-3{
-    width: 150px;
+    width: 60px;
     height: 30px;
+    
 }
-
+ul{
+    list-style: none;
+    
+    
+}
+.white-2{
+    color: white;
+    font-size: 15px;
+    margin-top: 25px;
+}
+.img-4{
+    width: 100px;
+    height: 40px;
+    margin-top: 150px;
+}
+.white-4{
+    font-size: 10px;
+    color: white;
+}
+   
+    
     
     
     
