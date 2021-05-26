@@ -1,1 +1,1 @@
-document.getElementById("playstation").innerHTML = "playstation5"
+document.getElementById('playstation').innerHTML = 'playstation5';
